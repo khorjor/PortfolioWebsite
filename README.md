@@ -12,14 +12,13 @@ From designing pixel-perfect interfaces in Illustrator & Figma to bringing them 
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Design & UX:**  
-- Figma, Adobe Illustrator, Photoshop  
+- Figma, Adobe Illustrator, Photoshop,  
 - UI Kits, Prototyping, Wireframing  
 - Branding & Visual Identity
 
 **Frontend Development:**  
 - HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+)  
-- Responsive & Mobile-First Design  
-- Basic React, Web Animations  
+- Responsive & Mobile-First Design   
