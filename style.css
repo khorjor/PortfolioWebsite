@@ -228,6 +228,12 @@ body {
     font-family: 'Funnel Display', sans-serif;
 }
 
+#about span {
+    font-style: normal;
+    font-weight: 500;
+    color: #ff1493;
+}
+
 .babyme {
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.18), 0 1.5px 6px 0 rgba(0, 0, 0, 0.12);
     position: absolute;
